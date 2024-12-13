@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashwatm74&label=Profile%20views&color=0e75b6&style=flat" alt="shashwatm74" /> </p>
 
-- 🔭 I’m currently working on [**********events](https://github.com/cannotreveal)
+- 🔭 I’m currently working on [permission system](https://github.com/cannotreveal)
 
 - 🌱 I’m currently learning **Spring Boot**
 
